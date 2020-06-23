@@ -1,0 +1,62 @@
+Tabla de palabras reservadas:	
+----------------------------------------------
+   Posición	Palabra reservadas
+   	0	Bul	
+   	1	Cadena	
+   	2	Cierto	
+   	3	Entero	
+   	4	Falso	
+   	5	Haz	
+   	6	Mientras	
+   	7	Para	
+   	8	Real	
+   	9	Si	
+   	10	Sino	
+
+
+Tabla de operadores relacionales:	
+----------------------------------------------
+   Posición	Palabra reservadas
+   	0	.DIF.	
+   	1	.IGL.	
+   	2	.MN.	
+   	3	.MNI.	
+   	4	.MY.	
+   	5	.MYI.	
+
+
+Tabla de identificadores:	
+----------------------------------------------
+   Posición	Identificador	Tipo
+     0		ax		3
+     1		ay		3
+     2		zx		3
+     3		sfd		3
+     4		bx		8
+     5		xz		8
+     6		gf		8
+     7		mm		8
+     8		bdg		0
+     9		dgs		0
+     10		jd		0
+     11		xx		0
+     12		xxx		0
+     13		yyy		0
+     14		xyz		0
+     15		gdt		1
+     16		lfdj		1
+     17		ldodf		1
+
+
+Tabla de operadores aritméticos:	
+----------------------------------------------
+   Posición	Operador aritmético
+     0		*	�
+
+
+Tabla de operadores de asignación:	
+----------------------------------------------
+   Posición	Operador de asignación
+     0		:=	�
+
+

@@ -1,0 +1,18 @@
+[
+  Entero uno, dos;
+  Cadena cad;
+  Real xUno, yDos;
+  Bul boleano;
+
+  uno:=1;
+  dos:=2;
+  cad:="cadena 1";
+  boleano:=Cierto;
+  xUno:= 3.24;
+
+  Mientras (uno.MN.8)[
+   uno:=1+uno;
+   dos:=2+dos;
+  ]
+]
+   
